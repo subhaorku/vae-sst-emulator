@@ -27,7 +27,6 @@ Download the files and place them in a directory named `Data`:
 
 Data/
 ├── COBE_SST_resize.nc
-|
 └── GISS-E2-1-H_historical_1850_2014.nc
 
 
